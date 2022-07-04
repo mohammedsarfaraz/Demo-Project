@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Demo Project</string>
+    <string name="title_home">Home</string>
+    <string name="title_contact">Contact</string>
+    <string name="title_files">Files</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string-array name="names">
+        <item>sarfaraz</item>
+        <item>ibrahim</item>
+        <item>mujju</item>
+        <item>suryanshu</item>
+        <item>Akshat</item>
+        <item>Akshat raj</item>
+        <item>sarfaraz</item>
+        <item>sarfaraz</item>
+        <item>sarfaraz</item>
+        <item>sarfaraz</item>
+        <item>sarfaraz</item>
+        <item>sarfaraz</item>
+        <item>sarfaraz</item>
+        <item>sarfaraz</item>
+        <item>sarfaraz</item>
+        <item>sarfaraz</item>
+        <item>sarfaraz</item>
+        <item>sarfaraz</item>
+        <item>sarfaraz</item>
+        <item>sarfaraz</item>
+        <item>sarfaraz</item>
+        <item>sarfaraz</item>
+    </string-array>
+</resources>
